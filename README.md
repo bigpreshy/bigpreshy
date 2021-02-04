@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://avatars.githubusercontent.com/u/38605724?s=400&u=c741a89dc9bd8eeaf3844350b7e191cb72e38bba&v=4">
 
 <h2> Hey there! I'm Precious.</h2>
 
@@ -46,6 +46,6 @@
 
 <p align="center">
 
-<a href="https://twitter.com/localhost_101/"><img alt="Twitter" src="https://img.shields.io/badge/LinkedIn-Precious%20Luke-blue?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/localhost_101/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Precious%20Luke-blue?style=flat-square&logo=twitter"></a>
 
 </p>
