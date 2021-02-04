@@ -7,7 +7,8 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studied English Language.
 - ✍️ &nbsp; Pursuing Technical Writing as hobbies/side hustles.
-- 💼 &nbsp; Currently Doing Youtube.
+- ▶️ &nbsp; Currently Doing Youtube.
+- 💼 &nbsp; Currently looking for remote position.
 - 🌱 &nbsp; Learning more about Backend Infastructures with a keen interest in NodeJs.
 
 
