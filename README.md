@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/38605724?s=400&u=c741a89dc9bd8eeaf3844350b7e191cb72e38bba&v=4">
+<img src="https://avatars.githubusercontent.com/u/38605724?s=400&u=c741a89dc9bd8eeaf3844350b7e191cb72e38bba&v=4" style="border-radius: 50px" >
 
 <h2> Hey there! I'm Precious.</h2>
 
